@@ -3,7 +3,3 @@ body {
   background-size: cover;
   background-position: center center;
 }
-
-.transparent-card {
-  background-color: rgba(255, 255, 255, 0);
-}
