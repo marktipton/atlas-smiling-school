@@ -40,3 +40,7 @@
   height: 63px;
   width: auto;
 }
+
+.position-relative {
+  position: relative;
+}
