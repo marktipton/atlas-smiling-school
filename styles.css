@@ -1,4 +1,8 @@
-body {
+.homepage-header {
+  position: absolute;
+}
+
+.homepage-hero {
   background-image: url('images/pic_1.jpg');
   background-size: cover;
   background-position: center center;
@@ -11,3 +15,7 @@ body {
 .smile-school {
   height: 30px;
 }
+
+/* .card-size {
+  width: 150px;
+} */
