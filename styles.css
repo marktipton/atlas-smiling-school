@@ -32,3 +32,8 @@
 .weather {
   background-color: #C271FF;
 }
+
+.weather a img {
+  height: 63px;
+  width: auto;
+}
