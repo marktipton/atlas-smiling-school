@@ -33,7 +33,9 @@
   background-color: #C271FF;
 }
 
-.weather a img {
+.weather a img,
+.video a img {
   height: 63px;
   width: auto;
 }
+
