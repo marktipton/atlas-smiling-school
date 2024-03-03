@@ -72,3 +72,8 @@
 .video .xs-img {
   width: 30px;
 }
+
+.video .small-star {
+  height: 15px;
+  width: auto;
+}
