@@ -19,3 +19,12 @@
 /* .card-size {
   width: 150px;
 } */
+
+.homepage-hero .small-img {
+  width: 150px;
+  height: auto;
+}
+
+.carousel img {
+  width: 150px;
+}
