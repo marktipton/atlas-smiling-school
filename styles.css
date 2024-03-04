@@ -104,3 +104,12 @@ footer {
 /* ................ Pricing .......................... */
 /*  */
 
+.pricing-header {
+  position: absolute;
+}
+
+.pricing-hero {
+  background-image: url('images/pic_2.jpg');
+  background-size: cover;
+  background-position: center center;
+}
