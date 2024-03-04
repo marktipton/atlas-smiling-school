@@ -30,7 +30,8 @@
 }
 
 .weather,
-.homepage-hero .btn-success {
+.homepage-hero .btn-success,
+.membership .btn-success {
   background-color: #C271FF;
   border: #C271FF;
 }
@@ -86,6 +87,9 @@
   width: 242px;
   height: 48;
 } */
+.membership {
+  background-color: #071629;
+}
 
 .membership .smile_on-area {
   width: 45px;
