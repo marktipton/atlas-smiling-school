@@ -94,3 +94,7 @@
 .membership .smile_on-area {
   width: 45px;
 }
+
+.membership p {
+  max-width: 215px;
+}
