@@ -87,7 +87,8 @@
   width: 242px;
   height: 48;
 } */
-.membership {
+.membership,
+footer {
   background-color: #071629;
 }
 
