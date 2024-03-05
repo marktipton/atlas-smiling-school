@@ -36,23 +36,19 @@
 }
 
 .weather,
-.homepage-hero .btn-success,
-.membership .btn-success {
+.purple-btn .btn-success {
   background-color: #C271FF;
   border-color: #C271FF;
 }
 
-.homepage-hero .btn-success:hover,
-.membership .btn-success:hover,
-.homepage-hero .btn-success:active,
-.membership .btn-success:active {
+.purple-btn .btn-success:hover,
+.purple-btn .btn-success:active {
   background-color: #C271FF;
   opacity: 0.9;
   border-color: #C271FF;
 }
 
-.homepage-hero .btn-success:focus,
-.membership .btn-success:focus {
+.purple-btn .btn-success:focus {
   background-color: #C271FF;
   box-shadow: 0 0 0 0.2rem rgba(205, 51, 229, 0.5);
   border: none;
