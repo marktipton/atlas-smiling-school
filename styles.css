@@ -136,3 +136,8 @@ footer {
 .row-divider {
   border-bottom: 1px solid #a8a8a8;
 }
+
+#navbarNav a:hover {
+  color: #C271FF;
+  text-decoration: underline;
+}
