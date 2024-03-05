@@ -151,3 +151,7 @@ footer {
   background-position: center center;
   background-size: cover;
 }
+
+.courses-hero h1 {
+  width: 500px;
+}
