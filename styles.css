@@ -141,3 +141,13 @@ footer {
   color: #C271FF;
   text-decoration: underline;
 }
+
+/*  */
+/* courses section...................... */
+/*  */
+
+.courses-hero {
+  background-image: url('images/pic_3.jpg');
+  background-position: center center;
+  background-size: cover;
+}
