@@ -37,7 +37,12 @@
 
 .weather,
 .homepage-hero .btn-success,
-.membership .btn-success {
+.membership .btn-success,
+.homepage-hero .btn-success:hover,
+.membership .btn-success:hover,
+.homepage-hero .btn-success:active,
+.homepage-hero .btn-success:focus,
+.membership .btn-success:active {
   background-color: #C271FF;
   border: #C271FF;
 }
