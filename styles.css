@@ -1,6 +1,11 @@
 .homepage-header {
   position: absolute;
+  width: 100%;
   z-index: 1000;
+}
+
+.navSize {
+  width: 100%;
 }
 
 .homepage-hero {
