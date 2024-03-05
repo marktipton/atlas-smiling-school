@@ -48,12 +48,21 @@
         </div>
         <!-- form -->
         <div class="form-bg">
-          <form class="form-group row p-5">
-            <div class=" col-12 col-md-4 text-left">
+          <form class="row p-5">
+            <div class="form-group col-12 col-md-4 text-left">
               <label for="Keywords">Keywords</label>
               <div class="input-group">
                 <!-- <i class="fas fa-search text-dark"></i> -->
-                <input type="text" class="form-control" aria-label="Keywords" id="Keywords">
+                <input type="text" class="form-control" placeholder="Search by keywords" aria-label="Keywords" id="Keywords">
+              </div>
+            </div>
+            <div class="form-group col-12 col-md-4 text-left">
+              <label for="Topic">Topic</label>
+              <div class="custom-select" id="Topic">
+                <option selected class="text-white">Novice</option>
+                <option value="1">Novice</option>
+                <option value="2">Intermediate</option>
+                <option value="3">Expert</option>
               </div>
             </div>
           </form>
