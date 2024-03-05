@@ -39,7 +39,7 @@
 .homepage-hero .btn-success,
 .membership .btn-success {
   background-color: #C271FF;
-  border: #C271FF;
+  border-color: #C271FF;
 }
 
 .homepage-hero .btn-success:hover,
@@ -48,12 +48,15 @@
 .membership .btn-success:active {
   background-color: #C271FF;
   opacity: 0.9;
-  border: none;
+  border-color: #C271FF;
 }
 
 .homepage-hero .btn-success:focus,
 .membership .btn-success:focus {
   background-color: #C271FF;
+  box-shadow: 0 0 0 0.2rem rgba(205, 51, 229, 0.5);
+  border: none;
+
 }
 
 .weather a img,
