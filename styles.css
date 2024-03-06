@@ -1,3 +1,7 @@
+* {
+  box-sizing: border-box;
+}
+
 .homepage-header {
   position: absolute;
   width: 100%;
