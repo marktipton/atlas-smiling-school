@@ -55,6 +55,10 @@
 
 }
 
+.img-text p {
+  max-width: 250px;
+}
+
 .weather a img,
 .video a img {
   height: 63px;
